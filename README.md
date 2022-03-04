@@ -1,4 +1,4 @@
-# <span style="color:Purple">**Horiseon**</span>
+# <span style="color:skyblue">**Horiseon**</span>
 
 ## <span style="color:violet">Description</span>
 
@@ -6,7 +6,7 @@
 
 ## <span style="color:violet">How to use</span>
 
-Just use this **link** to access our webpage: [Horiseon](https://adrianstrozzi.github.io/Tec_01CodeRefactor/)
+Use this **link** to access our webpage: [Horiseon](https://adrianstrozzi.github.io/Tec_01CodeRefactor/)
 
 ## <span style="color:violet">Usage</span>
 
